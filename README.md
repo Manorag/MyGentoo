@@ -1,7 +1,7 @@
 # MyGentoo
-Mi guia para instalar Gentoo con un sistema de archivos btrfs, y systemd
+ Guia para instalar Gentoo con un sistema de archivos btrfs, y systemd
 
-# Guia Gentoo con systemd pc Mano
+# Guia Gentoo con systemd
 En esta instalacion usaremos cualquier distro de linux, ya sea linux mint, fedora, etc, debido a que la iso minimal de gentoo no trae soporte para mi placa de wifi "Realtek Semiconductor RTL8852AE 802.11ax PCIe Wireless Network Adapter" (por el momento).
 
 Arrancaremos como normalmente lo hariamos desde el liveusb de nuestra distro.
